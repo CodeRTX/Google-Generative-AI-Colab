@@ -1,0 +1,27 @@
+# Ignore environment files
+.env
+api_key.key
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore node modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
