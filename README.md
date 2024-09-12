@@ -20,3 +20,5 @@ This notebook provides a step-by-step guide to setting up and using Google Gener
 ```python
 from google.colab import userdata
 APIkey = userdata.get('HF_TOKEN')
+```
+ ....
