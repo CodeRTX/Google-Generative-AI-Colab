@@ -1,0 +1,2 @@
+`.env` files store environment-specific configurations and sensitive information like API keys and database credentials in plain text. They use key-value pairs and are commonly used in development to keep configuration separate from code. The `python-dotenv` library can load these variables in Python. `.env` files should be added to `.gitignore` to prevent accidental
+sharing.
